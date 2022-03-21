@@ -1,5 +1,5 @@
-# SEN-AFT
-A Fast Symmertric and Topology-preserving Image Registration CNN Model with Two Sub-networks
+# SEN-FCB
+SEN-FCB: An Unsupervised Twinning Neural Network for Image Registration
 ## Train 
 ### Train SEN 
 Use train_SEN.py `--train_path` [Your data path] to train with your own data. `./Data/ is default folder.
