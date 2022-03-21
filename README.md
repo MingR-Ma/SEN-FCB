@@ -3,7 +3,7 @@ SEN-FCB: An Unsupervised Twinning Neural Network for Image Registration
 ## Train 
 ### Train SEN 
 Use train_SEN.py `--train_path` [Your data path] to train with your own data. `./Data/ is default folder.
-### Train AFT
+### Train FCB
 Use `train_FCB.py` `--train_path` [Your data path] to train with your own data. `./Data/` is default folder.  
                  `--model_dir` [trained SEN weights or your trained weights] to get first model deformation fields to train FCB. Default './Model/weights/'  
 ## Test
